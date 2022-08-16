@@ -8,6 +8,8 @@ import Planets from "./ui/pages/Planets"
 import Species from "./ui/pages/Species"
 import Vehicles from "./ui/pages/Vehicles"
 import Starships from "./ui/pages/Starships"
+import './App.css'
+
 
 const App = () => {
   return (

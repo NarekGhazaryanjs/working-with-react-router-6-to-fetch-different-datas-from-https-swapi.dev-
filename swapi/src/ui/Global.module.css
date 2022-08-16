@@ -1,0 +1,18 @@
+
+
+.list {
+    list-style-type: none;
+    width: 80%;
+    margin-left: 10%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 4px;
+}
+
+
+.list-item {
+    color: white;
+    border: 1px solid white;
+    padding: 8px;
+    background-color: black;
+}
