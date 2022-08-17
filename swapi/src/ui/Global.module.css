@@ -9,6 +9,13 @@
     grid-gap: 4px;
 }
 
+@media screen and (max-width: 768px) {
+    .list {
+        margin-left: 0;
+    }
+    
+}
+
 
 .list-item {
     color: white;

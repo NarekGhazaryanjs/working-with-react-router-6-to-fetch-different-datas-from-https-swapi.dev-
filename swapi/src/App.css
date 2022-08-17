@@ -19,4 +19,12 @@ a {
   text-decoration: none;
   font-family: cursive;
   font-weight: bold;
+  border-bottom: 1px solid white;
+}
+
+@media screen and (max-width: 768px) {
+  header {
+    flex-direction: column;
+    height: 40vh;
+  }
 }
